@@ -89,4 +89,3 @@ plt.title ("Bogoliubov Energy")
 plt.xlabel ("Interaction Strength")
 plt.ylabel ("Energy")
 plt.show ()
-
