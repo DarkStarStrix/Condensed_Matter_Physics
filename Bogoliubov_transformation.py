@@ -49,7 +49,7 @@ bec_simulator.apply_hamiltonian_terms ()
 counts = bec_simulator.run_simulation ()
 
 visualizer = Visualizer ()
-visualizer.plot_histogram (counts)
+# visualizer.plot_histogram (counts)
 
 # Visualize the quantum circuit
 # bec_simulator.qc.draw ('mpl').show ()
@@ -85,6 +85,7 @@ for interaction_strength in interaction_strengths:
 
 # Plot the energy as a function of the interaction strength
 plt.plot (interaction_strengths, energies)
+plt.title ("Bogoliubov Energy")
 plt.xlabel ("Interaction Strength")
 plt.ylabel ("Energy")
 plt.show ()
