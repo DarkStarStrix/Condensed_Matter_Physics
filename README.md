@@ -1,6 +1,6 @@
 # Condensed_Matter_Physics
 
-How can quantum computing enhance the understanding of particle interactions in Bose-Einstein condensates, and what insights can be gained from quantum simulations that may not be easily attainable through classical methods?
+The quantum simulation of a weakly interacting BEC using the Bogoliubov transformation in Qiskit will reveal distinct patterns of quasi-particle excitations, showcasing the impact of weak interactions on the stability and dynamics of the BEC. Systematic variations in parameters will uncover nuanced behaviors, providing valuable insights into the quantum nature of weakly interacting BECs. The simulation results are expected to align with theoretical predictions, validating the accuracy of the quantum simulation approach?
 
 Bose-Einstein condensate (BEC) is a state of matter that occurs when a group of bosons, a type of particle, are cooled to a temperature near absolute zero. At this temperature, the bosons lose their individual identities and merge into a single entity.
 In an ideal Bose gas, BEC can occur without interparticle interactions. However, in reality, interactions are needed for a Bose gas to remain close to thermal equilibrium.
